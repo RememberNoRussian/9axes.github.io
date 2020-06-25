@@ -1,30 +1,31 @@
+//federal=שיתופי unitary=קנייני
 questions = 
     [[//Federal-Unitary`
         [//4
-            "There is no need for a national government",
-            "Subdivisions of nations should have their own militaries",
-            "State laws should have precedence over national laws"
+            "  לאדם צריכה להיות החובה לתת לחלש ממנו ",
+            " קיבוצים הם שיטת היישוב העדיפה עליי",
+            " חוקים צריכים לקדם שיוויון רכושני בין בני האדם "
         ],
         [//3
-            "State and local laws should have precedence over national laws",
-            "The national government can't understand what the people need.",
-            "People should hold more loyalty to their local state than their country."
+            " הזכות לקניין היא לא הכרחית",
+            " השיטה הקפיטליסטית יוצרת את הקרע בעם",
+            " התנועה הקיבוצית צריכה להחיות את עצמה מחדש"
         ],
         [//2
-            "Local governments should have more power than they currently do",
-            "Laws should vary from area to area and culture to culture within a country.",
-            "It's a good idea to test a policy in one state rather than implementing it nationwide right away"
+            " אנשים עשירים צריכים לוותר על חלק מהכסף והרכוש שלהם כדי לעזור לעניים ",
+            " לחלוק מעולם לא פגע באף אחד",
+            " הזכות לחיים גוברת על הזכות לקניין"
             
         ],
         [//1
-            "Local governments can understand their citizens better than the national government could",
-            "Local governments address issues that the national government would never touch without them",
-            "Local governments give each region good representation of their views"
+            "השיטה הקיבוצית עוזרת לחלשים",
+            "הממשלה צריכה לתמוך בתנועה הקיבוצית ולהחיות אותה",
+            "קיבוצים עדיפים על מושבים וערים, בהם אין אורח חיים שיתופי"
         ],
         [//-1
-            "A country cannot function without a national government",
-            "The national government protects minorities better than some local governments do.",
-            "There are many issues that it does not make sense to address at a local level"
+            "השיטה הקיבוצית פוגעת במשק",
+            "אדם יכול לקנות מה שהוא ירצה באיזו כמות שהוא ירצה, כל עוד הוא מסוגל לזה כלכלית",
+            "בשביל משק כלכלי חזק, צריך שכל עוד אדם לא עובר על שום חוק, הוא יוכל לעשות מה שירצה עם האדמה שלו"
         ],
         [//-2
             "The national government needs more power",
