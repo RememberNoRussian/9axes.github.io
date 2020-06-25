@@ -28,19 +28,19 @@ questions =
             "בשביל משק כלכלי חזק, צריך שכל עוד אדם לא עובר על שום חוק, הוא יוכל לעשות מה שירצה עם האדמה שלו"
         ],
         [//-2
-            "The national government needs more power",
-            "Subdivisions should not be able to exempt from national laws",
-            "People should think of themselves as citizens of their nation rather than their state"
+            "לאנשים עשירים יש את הזכות להיות בעלים של הרכוש שלהם בלי שהממשלה תתערב",
+            "אנשים עם רכוש תורמים להתפחתחות הכלכלית",
+            "אנשים שחיים בצורה שיתופית לא תורמים לכלכלה"
         ],
         [//-3
-            "A group of states without a strong national government is merely an alliance, not a nation",
-            "A national government must be strong to adequately protect all its citizens",
-            "States cannot function without a strong national government"
+            "כל הקיבוצים צריכים להתפרק ולהסתפח לערים גדולות יותר",
+            "הממשלה לא צריכה להטיל מיסים על רכוש",
+            "הכוח של אנשים בא מהרכוש שלהם"
         ],
         [//-4
-            "There is no need for local or state governments",
-            "Laws should be completely consistent within all regions of a nation",
-            "Strong states weaken a nation"
+            "הזכות לקניין היא הזכות הבסיסית ביותר של אדם",
+            "הזכות לקניין גוברת על הזכות לחיים",
+            "הגבלות על קניין פוגעות בזכויות אדם בסיסיות"
         ]],[//Democratic-Authoritarian`
         [//4
             "Direct democracy is the best form of government",
