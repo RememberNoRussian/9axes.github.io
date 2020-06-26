@@ -243,124 +243,124 @@ questions =
             "מי שלא עובד רק מבזבז כספי ציבור והיה עדיף אם הוא היה מת"
         ]],[//Secular-Religious
         [//4
-            "Religion should be banned",
-            "Faith is complete nonsense",
-            "Religion must decline for society to progress"
+            "אלוהים לא קיים",
+            "דת היא מטופשת",
+            "דתיים הם פרימיטיביים"
         ],
         [//3
-            "Religious clothing should be banned from public",
-            "There is no higher power",
-            "The government should not fund any religious organizations in any way"
+            "האיסור על תחבורה ציבורית בשבת הוא לא צודק",
+            "רבנים הם שקרנים",
+            "הממשלה לא צריכה לממן ישיבות"
         ],
         [//2
-            "I support gay marriage",
-            "Every religion must be looked upon equally by the government",
-            "Religion should be removed from everything in our government"
+            "אני תומך בנישואים גאים",
+            "חוק המרכולים הוא דוגמה להשתלטות של החרדים על המדינה",
+            "צריך להפריד דת ומדינה"
         ],
         [//1
-            "Religion does not belong in government",
-            "Laws should not be based on religion",
-            "There must be a separation between church and state"
+            "דת לא שייכת לכנסת",
+            "חוקים שמקדמים דת הם בעיה",
+            "יש הדתה בספרי הלימוד"
         ],
         [//-1
-            "I believe there is something after death",
-            "Religion is beneficial for society",
-            "People must be allowed to follow a religion"
+            "אני יהודי",
+            "אני נגד מצעדי גאווה",
+            "בישראל חייבים להיות חוקים על כשרות"
         ],
         [//-2
-            "I believe in a higher power",
-            "Religious organizations often provide better assistance to the poor than the government does",
-            "Children should be educated in religious values."
+            "הומוסקסואליות היא לא טבעית והיא חטא לפי התורה",
+            "אני מאמין באלוהים ואני מאמין שהוא באמת קיים ומסוגל לניסים",
+            "אני רוצה שיהיה תוכן דתי בספרי הלימוד"
         ],
         [//-3
-            "Religion usually provides the truth",
-            "My religious values should be spread as much as possible.",
-            "Sex outside marriage is immoral."
+            "הפלות הם רצח, ומכיוון שאסור לרצוח בתורה, אסור להפיל",
+            "מדינת ישראל היא מדינה יהודית",
+            "אני מקיים כל מצווה שאני יכול, בגלל שהיא צו עליון מאלוהים"
         ],
         [//-4
-            "Theocracy is a good system of government",
-            "The government should support and only recognize one religion",
-            "Most bad things happening in the world are caused by us turning away from religion"
+            "צריך לסקול אנשים כאשר התנך מצווה על זה",
+            "מדינת ישראל היא אך ורק מדינה יהודית, ואני נגד שיהיו בה ערבים ונוצרים ומיעוטים אחרים",
+            "כיום חילונים שונאים את הדת בלי שום סיבה לגיטימית, אלא רק בגלל שהם שונאים אותם כחברה מלוכדת וחזקה"
         ]],[//Progressive-Traditional
         [//4
-            "If AI could rule more effectively than humans, then AI should rule",
-            "Genetic modification is a force for good, even on humans.",
-            "Tradition just hinders the progress of technology"
+            "מדינת ישראל צריכה להשקיע יותר בהיי טק ופחות בשימור המורשת שלה",
+            "מישראל יצאו הפיתוחים הטובים ביותר, כל עוד המימון בכמות המאתימה",
+            "התרבות הישראלית פוגעת בתעשיית ההיי טק"
         ],
         [//3
-            "Automation overall is extremely good for society",
-            "Traditions are of no value on their own.",
-            "When people have already suffered for technology to be developed, we should use that technology"
+            "אני בעד לתת לפלסטינים מדינה משל עצמם",
+            "צריך להתקדם מהערכים היהודיים העתיקים, אנחנו בעולם מודרני ואין מקום לזה כרגע",
+            "המדינה צריכה יותר להתרכז על פיתוח טכנולוגי מאשר פיתוח חברתי"
         ],
         [//2
-            "We should put effort into getting a person on Mars in the near future",
-            "Testing products on animals is ethical",
-            "Technological progress is usually good"
+            "ישראל צריכה להשקיע יותר כסף בתוכניות טכנולוגיות וחינוכיות מאשר בתרבות",
+            "מצעדי גאווה הם רעיון טוב ונאור, אנחנו בעידן המודרני והעם צריך להיפתח ולזנוח את המחשבות הקדומות שלו",
+            "התפתחות טכנולוגית היא טובה לישראל"
             
         ],
         [//1
-            "Human Caused climate change is currently one of the greatest threats to our way of life.",
-            "Environmental regulations are essential.",
-            "A better world will come from automation, science, and technology."
+            "ישראל יותר טובה מבחינה חברתית כיום מאשר מלפני 30 שנים",
+            "חובתנו כאזרחים היא לשמור על איכות הסביבה",
+            "טכנולוגיה תפתח את החברה שלנו"
         ],
         [//-1
-            "To chase progress at all costs is dangerous.",
-            "Technology is not always beneficial",
-            "Traditions are important"
+            "החברה הישראלית מתדרדרת",
+            "איכות הסביבה היא לא בעיה כל כך גדולה",
+            "המסורת היהודית חשובה"
         ],
         [//-2
-            "Technology is negatively affecting modern society",
-            "Genetic modification should be used rarely, if ever",
-            "Maintaining family values is essential."
+            "החברה המודרנית היא נוראית",
+            "אני אחנך את ילדיי על פי הערכים היהודיים",
+            "חשוב לשמור על ערכי המשפחה"
         ],
         [//-3
-            "Society was better many years ago than it is now.",
-            "It is important that we maintain the traditions of our past.",
-            "The elders in society know the best path for it"
+            "החברה הישראלית נהרסת ככל שהשנים חולפות",
+            "חשוב לשמור על הערכים היהודיים, לא משנה אם אתה חילוני או דתי",
+            "עשרת הדיברות הן אבן היסוד של החברה הישראלית"
         ],
         [//-4
-            "Traditional medicines are often more effective than modern medicines",
-            "The Internet should be banned",
-            "We must go back to a basic way of life without modern conveniences."
+            "מדינת ישראל נבנתה על ערכי המדינה היהודית, והיא הדבר החשוב ביותר שיש",
+            "ילדים היום לא מכבדים את ההורים והסבים שלהם",
+            "המסורת היא חלק בלתי נפרד מהמדינה"
         ]],[//Assimilationist-Multiculturalist
         [//4
-            "Foreigners should never enter the country",
-            "We should not allow any refugees",
-            "Only our national language(s) should be spoken in our country"
+            "הסודנים הם סרטן בדם שלנו",
+            "צריך להעיף מהמדינה את הפליטים",
+            "צריך לדבר רק עברית בארץ הקודש"
         ],
         [//3
-            "Only extremely talented immigrants, if that, should be permitted to enter the country",
-            "If we accept migrants at all, it is important that they assimilate into our culture.",
-            "Immigrants can never really adapt to our way of life"
+            "רק ליהודים מותר להיות במדינה הזאת",
+            "אם אתה לא מקבל על עצמך את היהדות, צריך להוציא אותך מהמדינה",
+            "עולים חדשים לעולם לא יסתגלו לחברה הישראלית היהודית"
         ],
         [//2
-            "In general, immigrants are bad for the country",
-            "A nation's culture is important to protect",
-            "Illegal immigrants do not provide a benefit to the hosting country"
+            "פליטים גורמים לצרות במדינה",
+            "בעיית המסתננים היא אחת הבעיות הקשות ביותר במדינה",
+            "צריך לשלוח עובדים זרים חזרה למדינה שלהם"
         ],
         [//1
-            "Illegal immigrants should be deported in most or all cases",
-            "Immigrants should be expected to learn the language of the country",
-            "Border protection is important"
+            "מהגרים לא חוקיים הם בעיה רצינית במדינה",
+            "בישראל אין מקום לגיוון תרבותי",
+            "צריך להגביר את השמירה על הגבולות"
         ],
         [//-1
-            "We should be taking in more refugees",
-            "Immigrants are a net positive",
-            "I enjoy some foreign cultures"
+            "צריך לאפשר ליותר פליטים להיכנס",
+            "עובדים זרים מועילים למדינה",
+            "המדינה תרוויח בצורה חברתית מתרבויות אחרות"
         ],
         [//-2
-            "No cultures are superior to others.",
-            "We should be more accepting to other cultures",
-            "All societies are a blend of cultures"
+            "צריך לכבד את כל התרבויות",
+            "צריך יותר לקבל את השונה",
+            "מדינת ישראל היא קיבוץ גלויות"
         ],
         [//-3
-            "Everybody should speak at least two languages",
-            "All humans share a common identity",
-            "Our culture would be better with other cultures mixed in more"
+            "האחר הוא אני",
+            "כולנו שונים אך שווים",
+            "התרבות שלנו לא מספיק מכילה את האחר"
         ],
         [//-4
-            "Governments should be as concerned about foreign citizens as they are about those within their borders.",
-            "Anybody who wants to enter the country should be able to",
-            "The benefits of open borders would outweigh the costs"
+            "הממשלה צריכה לדאוג לפליטים כמו שהיא דואגת לאזרחים",
+            "החברה הישראלית צריכה להיות מוחלפת, או צריכה שינוי קיצוני",
+            "צריך לקבל את העובדים הזרים כאזרחים במדינה שלנו"
         ]
     ]];
