@@ -78,9 +78,9 @@ questions =
             "חסינות פרלמנטרית היא אבן יסוד בכל שיטת ממשל"
         ],
         [//-4
-            "Elections are a waste of resources",
-            "Catering to popular opinion is detrimental to a nation",
-            "A nation must obey its leadership without question"
+            "לאזרחים אין זכות להתלונן על מנהיג שנבחר בצורה דמוקרטית",
+            "אני בעד פסקת ההתגברות",
+            "האזרחים חייבים לציית לממשל לא משנה מה"
         ]],[//Globalist-Isolationist
         [//4
             "האום צריך לשפוט את ישראל על פעילותה",
@@ -123,124 +123,124 @@ questions =
             "ההסברה הישראלית היא בזבוז של כסף"
         ]],[//Militarist-Pacifist
         [//4
-            "War is needed to make an economy thrive",
-            "A constant state of war benefits a country",
-            "Only those who serve in the military should be allowed to have influence on who is in power"
+            "מלחמה במזרח התיכון רק תועיל לישראל",
+            "הפיתוחים הטובים ביותר של ישראל הגיעו בזמן מלחמה",
+            "ההישגים החברתיים הטובים ביותר של ישראל הושגו בזמן מלחמה"
         ],
         [//3
-            "There should be compulsory military service",
-            "Countries that do not serve our interests should be toppled",
-            "Only those who served in the military should be able to gain power in government"
+            "אני בעד גיוס חובה בגיל 18",
+            "ישראל צריכה להגביר את התוקפנות שלה כלפי מיליציות אירניות בסוריה ולבנון",
+            "ישראל צריכה להיכנס למבצע מקיף בעזה ולמוטט את שלטון החמאס"
         ],
         [//2
-            "Military action by our nation is often necessary to protect it.",
-            "Countries that violate human rights should be toppled",
-            "A military option should always be considered"
+            "במבצע בעזה, מחיר הדמים שנשלם הוא פעוט לעומת מחיר הדמים שנשלם אם לא נתחיל במבצע",
+            "ישראל צריכה להחיל ריבונות על יהודה ושומרון, למרות האיומים על מלחמה",
+            "רוב הפעמים, מלחמה עבדה יותר טוב מניסיונות שלום"
         ],
         [//1
-            "A government must maintain a strong military to defend itself",
-            "A nation usually needs a military in order to survive",
-            "We should respect those who have served in our military"
+            "ישראל צריכה לחזק את הצבא שלה",
+            "ישראל צריכה להכשיר יותר לוחמים ופחות תומכי לחימה",
+            "ישראל צריכה לאפשר גיוס התנדבותי לאחר 10 שנות לימוד"
         ],
         [//-1
-            "It is more important to retain peaceful relations than to further our strength.",
-            "Diplomatic options should always be tried before war is even considered",
-            "Peace is preferable to war whenever possible"
+            "ישראל צריכה להקטין את הצבא שלה",
+            "צריך קודם כל לנסות שלום על פני מלחמה",
+            "שלום עדיף על מלחמה"
         ],
         [//-2
-            "Even when protesting an authoritarian government, violence is not acceptable.",
-            "Lasting peace leads to prosperity",
-            "War usually leads to worse outcomes"
+            "אלימות במחאות היא לא מתקבלת על הדעת",
+            "שלום מוביל לשגשוג",
+            "רוב הפעמים, למלחמה יש השלכות שליליות על ישראל"
         ],
         [//-3
-            "Military spending is a waste of money.",
-            "We have no right to militarily intervene in other nations",
-            "Countries fall apart with constant war"
+            "אני נגד גיוס חובה בגיל 18, ומעדיף שירות לאומי או אזרחי",
+            "אנחנו צריכים להפסיק את התקיפות מחוץ לגבולנו במיידי",
+            "אם לא נוותר על הסיפוח, לעולם לא נגיע לשלום עם הפלסטינים"
         ],
         [//-4
-            "War is never justified",
-            "In the modern era, militaries aren't really necessary",
-            "Nations should not maintain a military"
+            "מלחמה גורמת לקרע בהם",
+            "ישראל צריכה להוציא את כוחות הביטחון מיהודה ושומרון",
+            "ציוד צבאי הוא בזבוז של כסף"
         ]],[//Security-Freedom
         [//4
-            "Those who disagree with the government should be removed from the country",
-            "The government should monitor all citizens to combat terrorism",
-            "People should not have protections that could hinder discovering their criminal activity"
+            "צריך לשלול את האזרחות של אנשים שמסיתים נגד הממשל",
+            "הממשלה צריכה להתערב בחיי הפרט על מנת לשמור על ביטחון המדינה",
+            "אני בעד ששוטר יוכל להיכנס לבית של חשוד בטרור ללא צו"
         ],
         [//3
-            "Police need more power and protection",
-            "It is very important to maintain law and order.",
-            "A country must be sure to take all measures to enforce its laws"
+            "המשטרה צריכה יותר ציוד וכוח",
+            "חובת המשטרה היא להשתמש באמצעים לפיזור הפגנות",
+            "המשטרה צריכה לאכוף את כל החוקים, לא משנה כמה פעוטים הם"
         ],
         [//2
-            "If you have nothing to hide, then you shouldn't care about the government having access to your communications",
-            "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-            "Government surveillance is necessary in the modern world."
+            "אם אין לך שום דבר להסתיר, לא צריך להיות לך אכפת מזה שהמדינה תעקוב אחרי הפעילות שלך ברשת",
+            "ביטחון המדינה חשוב יותר מחירות האדם",
+            "המדינה מוכרחת לעקוב אחרי האזרחים שלה על מנת להגן על המדינה"
         ],
         [//1
-            "The government should have access to the emails of suspected terrorists",
-            "Some freedom must be given up in order to keep people safe",
-            "Absolute freedom makes a society dangerous"
+            "לממשלה צריכה להיות גישה להודעות של חשודים בטרור",
+            "צריך לוותר על קצת מהחירות כדי לשמור על המדינה",
+            "חופש מוחלט מסכן את המדינה"
         ],
         [//-1
-            "Marijuana should be legalized",
-            "People should be given freedom whenever it causes little security risk",
-            "The government has no business looking into most people's personal lives"
+            "אני בעד לגליזציה של קנאביס",
+            "כל עוד זה לא פוגע משמעותית בביטחון המדינה, המדינה לא צריכה להתערב בחיי הפרט",
+            "למדינה אין סיבה להתערב בחיי הפרט של רוב האזרחים"
         ],
         [//-2
-            "Abortion should be legal in all cases",
-            "Police should be regulated more",
-            "No authority should be left unquestioned."
+            "הפלות צריכות להיות חוקיות, לא משנה מה הסיבה להן",
+            "לאדם יש את הזכות לבחור במה שטוב לו לדעתו",
+            "חירות היא ערך דמוקרטי בסיסי"
         ],
         [//-3
-            "Victimless crimes (such as drug use) should not be crimes at all.",
-            "Most drugs should be legalized",
-            "Whistleblowers should be strongly protected"
+            "פשעים חסרי קורבנות (כמו שימוש בסמים קלים) לא צריכים להיות פשעים",
+            "אני בעד לגליזציה של רוב הסמים",
+            "לאזרחים יש זכות להביע את דעתם, אפילו אם היא חותרת תחת עמדת המדינה שלהם"
         ],
         [//-4
-            "The very existence of the state is a threat to our liberty.",
-            "There should be no police force",
-            "People's freedom should have no limits"
+            "המשטרה פוגעת בחירות האדם",
+            "חירות היא הערך האנושי הבסיסי ביותר",
+            "לא צריכה להיות מגבלה על חירותו של האדם"
         ]],[//Equality-Markets`
         [//4
-            "Communism, if implemented correctly, would be a good form of economics",
-            "From each according to his ability, to each according to his need",
-            "Equality of outcome is important"
+            "קומוניזם היא השיטה הכלכלית העדיפה",
+            "קומוניזם אמיתי מעולם לא נוסה, ולכן אי אפשר להגיד שהוא לא עבד",
+            "שיוויון בשכר הוא חשוב"
         ],
         [//3
-            "Oppression by corporations is more of a concern than oppression by governments.",
-            "Taxes should be increased on the rich to provide for the poor.",
-            "Public utilities like roads and electricity should be publicly owned."
+            "החברות פוגעות באזרחים יותר משהמדינה פוגעת בהם",
+            "צריך להעלות את המיסים על עשירים כדי לעזור לעניים",
+            "אני בעד הלאמה"
         ],
         [//2
-            "I support single-payer, universal healthcare.",
-            "The wealthy have far more than they need",
-            "Basic things needed to live, such as healthcare, are rights"
+            "אני תומך בקיום של ביטוח לאומי",
+            "לעשירים יש יותר ממה שהם צריכים",
+            "ביטוח בריאות צריך להיחשב כזכות אדם בסיסית"
         ],
         [//1
-            "It is necessary for the government to intervene in the economy to protect consumers.",
-            "People should have equal opportunity to succeed",
-            "People born to wealthy families have unfair success even when they aren't skilled and don't work hard"
+            "המדינה צריכה להתערב במשק כדי להגן על הצרכנים",
+            "אני בעד שיוויון הזדמנויות",
+            "לאנשים עשירים אין ערך לכסף"
         ],
         [//-1
-            "People should have the right to leave their wealth to their descendents",
-            "Excessive government intervention is a threat to the economy.",
-            "Economies without any capitalism will collapse"
+            "צריך להוריד מכסי ייבוא מחול",
+            "אני בעד הפרטה",
+            "כלכלה שמבוססת על סוציאליזם היא כלכלה כושלת"
         ],
         [//-2
-            "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
-            "Capitalism is better than any existing alternative",
-            "Government owned industry is usually a bad idea"
+            "אני נגד ביטוח לאומי",
+            "קפיטליזם היא השיטה העדיפה",
+            "הלאמה היא רעיון רע ברוב המקרים"
         ],
         [//-3
-            "The freer the market, the freer the people",
-            "People should have to work for anything they get",
-            "The poor choose to be poor"
+            "ככל שהשוק חופשי יותר, כך גם האנשים חופשיים יותר",
+            "מערכת הרווחה לא עובדת",
+            "העניים בוחרים להיות עניים"
         ],
         [//-4
-            "The government should not regulate the economy at all",
-            "The government should not break up monopolies",
-            "Those who do not work should die"
+            "הממשלה צריכה להתרחק מהשוק בכל צורה אפשרית",
+            "המדינה לא אמורה לפרק מונופולים",
+            "מי שלא עובד רק מבזבז כספי ציבור והיה עדיף אם הוא היה מת"
         ]],[//Secular-Religious
         [//4
             "Religion should be banned",
