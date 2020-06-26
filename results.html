@@ -107,15 +107,15 @@
     rightArray = ["קנייני","סמכותי","בדלני","פציפיסט","ליברל","שווקים","דתי","שמרן","רב-תרבותי"]
 
     function setLabel(val,axis) {
-        if (val >= 90) { return "פנאטי " + rightArray[axis] } else
-        if (val >= 80) { return "קיצוני " + rightArray[axis] } else
-        if (val >= 70) { return rightArray[axis] } else
-        if (val >= 60) { return "נוטה ל " + righttArray[axis] } else
+        if (val >= 90) { return "פנאטי " + leftArray[axis] } else
+        if (val >= 80) { return "קיצוני " + leftArray[axis] } else
+        if (val >= 70) { return leftArray[axis] } else
+        if (val >= 60) { return "נוטה ל" + leftArray[axis] } else
         if (val > 40) { return "ניטראלי" } else
-        if (val > 30) { return "נוטה ל " + leftArray[axis] } else
-        if (val > 20) { return leftArray[axis] } else
-        if (val > 10) { return "קיצוני " + leftArray[axis] } else
-        	{return "פנאטי " + leftArray[axis]}
+        if (val > 30) { return "נוטה ל" + rightArray[axis] } else
+        if (val > 20) { return rightArray[axis] } else
+        if (val > 10) { return "קיצוני " + rightArray[axis] } else
+        	{return "פנאטי " + rightArray[axis]}
     }
 
     a  = getQueryVariable("a")
