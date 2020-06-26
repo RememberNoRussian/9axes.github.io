@@ -180,12 +180,12 @@ div.isolation {
 }
 div.pacifist {
     background-color: #ea90ab;
-    text-align: right;
+    text-align: left;
     border-left-style: solid;
 }
 div.militarist {
     background-color: #8bc34a;
-    text-align: left;
+    text-align: right;
     border-right-style: solid;
 }
 div.security {
