@@ -43,39 +43,39 @@ questions =
             "הגבלות על קניין פוגעות בזכויות אדם בסיסיות"
         ]],[//Democratic-Authoritarian`
         [//4
-            "Direct democracy is the best form of government",
-            "People should vote issue by issue themselves",
+            "דמוקרטיה ישירה היא שיטת הממשל הטובה ביותר",
+            "אנשים צריכים להצביע על כל בעיה אבל רק על אותה בעיה, ולא הצבעה שכוללת פיתרון לכמה בעיות במקביל",
             "Representatives rarely represent the nation well"
         ],
         [//3
-            "It is important that the government follows the majority opinion, even if it is wrong.",
-            "The more people asked, the better chance there is of reaching the best decision.",
-            "Nobody but me can adequately represent my views"
+            "זה חשוב שהממשל יסכים עם דעת הרוב, אפילו אם היא לא נכונה",
+            "ככל שיותר אנשים ינסו לפתור את הבעיה, יש יותר סיכויים שהפיתרון הטוב ביותר ייבחר",
+            "אף אחד חוץ ממני לא יכול לייצג את הדעות שלי כמו שאני הייתי מייצג אותן"
         ],
         [//2
-            "Elections are an effective way of showing government approval",
-            "Democracy is the worst form of government, except for all the others we've tried.",
-            "Each person should have one vote, each equal to every other"
+            "בחירות הן דרך אפקטיבית להראות הסכמה או אי הסכמה עם הממשל",
+            "דמוקרטיה היא שיטת ממשל גרועה, אך טובה יותר מכל אופציה קיימת",
+            "לכל אדם צריך להיות קול אחד, והקול הזה צריך להיות שווה לשאר הקולות"
         ],
         [//1
-            "Democracy is more than a decision-making process.",
-            "People should have the power to choose their leaders",
-            "The government must be by the people for the people"
+            "דמוקרטיה היא יותר מדרך לקבלת החלטות",
+            "לאנשים צריכה להיות האפשרות לבחור את המנהיגים שלהם",
+            "הממשל חייב להיבחר על ידי העם, ולהיות למען העם"
         ],
         [//-1
-            "The stronger the leadership, the better.",
-            "Popular opinion is not always right",
-            "Leaders must be strong or a nation will suffer"
+            "ככל שהממשל חזק יותר, ככה יותר טוב",
+            "דעת הרוב היא לא תמיד הנכונה",
+            "מנהיגים חייבים להיות חזקים או שהמדינה תסבול"
         ],
         [//-2
-             "A hierarchical state is best.",
-            "Society could not function without leaders and followers",
-             "Democracy makes it too easy for a majority to further itself at the expense of minorities"
+             "מדינה שמבוססת על מעמדות היא האופציה הטובה ביותר",
+            "חברה לא יכולה לתפקד ללא מנהיגים ואנשים שתומכים באותם מנהיגים",
+             "דמוקרטיה עוזרת לרוב להעלות את מעמדו על חשבון מיעוטים"
         ],
         [//-3
-            "The general populace makes poor decisions.",
-             "It is important that we further my group's goals above all others.",
-            "Public opinion swings too much with emotional events to be useful for policy making"
+            "רוב העם מקבל החלטות גרועות",
+             "זה חשוב שהעמדות שאני מסכים איתן יקודמו יותר מאחרות",
+            "חסינות פרלמנטרית היא אבן יסוד בכל שיטת ממשל"
         ],
         [//-4
             "Elections are a waste of resources",
@@ -83,44 +83,44 @@ questions =
             "A nation must obey its leadership without question"
         ]],[//Globalist-Isolationist
         [//4
-            "A united world government would be beneficial to mankind.",
-            "We are first and foremost citizens of Earth",
-            "In order for humanity to survive, we must get past having separate nations"
+            "האום צריך לשפוט את ישראל על פעילותה",
+            "קשרי החוץ של ישראל הם החשובים ביותר",
+            "ההסברה הישראלית היא הכרחית לשרידתה של מדינת ישראל"
         ],
         [//3
-            "The United Nations needs more power",
-            "The United Nations should have a military to enforce its resolutions",
-            "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
+            "האום מתפקד ללא אפליה",
+            "האום צריך לשלוח כוח צבאי לישראל על מנת לשמור על שלום בין ישראל לבין הפלסטינאים",
+            "ישראל צריכה להמשיך בתקיפותיה בסוריה ולבנון"
         ],
         [//2
-            "I support regional unions, such as the European Union.",
-            "Governments should be accountable to the international community.",
-            "Nations fighting among each other gets in the way of progress"
+            "במקרה של סיפוח, לעולם תהיה זכות להביע את דעתו ולא להסכים עם מדיניות הסיפוח",
+            "ישראל חייבת לעמוד לדין במידה ותקרא לבית המשפט בהאג",
+            "העימותים במזרח התיכון פוגעים בסיכויים להתקדם טכנולוגית"
         ],
         [//1
-            "International trade is generally beneficial.",
-            "Alliances are important for protecting a nation",
-            "Nations should cooperate whenever it benefits them both"
+            "סחר בינלאומי הוא מועיל",
+            "מדינה חייבת שיהיו לה בעלות ברית",
+            "מדינות צריכות לשתף פעולה כשזה עוזר לשניהן"
         ],
         [//-1
-            "It is important to maintain our national sovereignty.",
-            "My nation is closer to my views than most nations in the world",
-            "I am proud to be in my country"
+            "זה חשוב לשמור על הריבונות של המדינה שלי",
+            "כלכלת המדינה שלי תתחזק אם נפסיק לסחור בצורה בינלאומית",
+            "יש לי גאווה לאומית"
         ],
         [//-2
-            "International aid is a waste of money.",
-            "Alliances can pose a threat to a nation's sovereignty.",
-            "National cultures are important to protect"
+            "מתן עזרה למדינות אחרות במקרי אסונות זה בזבוז של כסף",
+            "ישראל לא חייבת לעמוד לדין במידה ותקרא לבית המשפט בהאג",
+            "זה חשוב לשמור על התרבות שאני משתייך אליה"
         ],
         [//-3
-            "My nation should stay out of international affairs",
-            "The United Nations should be abolished.",
-            "Nobody in other countries has our best interests in mind"
+            "ישראל צריכה להפסיק לקבל את סיוע אמריקני",
+            "שום דבר טוב לא יצא לישראל מהאום",
+            "למדינות אחרות לא אכפת מטובתה של ישראל"
         ],
         [//-4
-            "Diplomacy only hurts nations",
-            "There should not be international law",
-            "Any deals other countries want must be bad for us"
+            "האום מתנכר לישראל",
+            "ישראל לא מחוייבת לחוק הבינלאומי",
+            "ההסברה הישראלית היא בזבוז של כסף"
         ]],[//Militarist-Pacifist
         [//4
             "War is needed to make an economy thrive",
