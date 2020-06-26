@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 </head>
 <script type="application/javascript">
-        src="ideologies.js">
+
 </script>
 
 <body>
@@ -169,20 +169,6 @@
     document.getElementById("h-label").innerHTML = setLabel(h, 7)
     document.getElementById("i-label").innerHTML = setLabel(i, 8)
     
-    ideology = ""
-    ideodist = Infinity
-    for (var i = 0; i < ideologies.length; i++) {
-        dist = 0
-        dist += Math.pow(Math.abs(ideologies[i].stats.econ - equality), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.govt - liberty), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.dipl - peace), 1.73856063)
-        dist += Math.pow(Math.abs(ideologies[i].stats.scty - progress), 1.73856063)
-        if (dist < ideodist) {
-            ideology = ideologies[i].name
-            ideodist = dist
-        }
-    }
-document.getElementById("ideology-label").innerHTML = ideology
         
     function createImage(src, x, y, w, h) {
         img = new Image ()
@@ -234,7 +220,6 @@ document.getElementById("ideology-label").innerHTML = ideology
         ctx.drawImage(img, 20, 1080, 100, 100)
         img = document.getElementById("img-multiculture")
         ctx.drawImage(img, 680, 1080, 100, 100)
-        ctx.fillText(ideology, 20, 140)
 
         ctx.fillStyle="#222222"
         ctx.fillRect(120, 130, 560, 80)
